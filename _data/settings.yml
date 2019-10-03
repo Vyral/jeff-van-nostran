@@ -19,7 +19,6 @@ client:
   brand: Jeff Van Nostran Team
   brokerage: Movement Mortgage
   market: Seattle and California
-  address: 27401 Los Altos Suite 410, Mission Viejo, CA 92691
   phone: 206-775-5693
   phone_type:
   phone2:
@@ -66,7 +65,7 @@ socials:
   linkedin_url: https://www.linkedin.com/in/jeff-van-nostran-5934b922/
   youtube_url:
   twitter_url: https://twitter.com/mortgagehusky?lang=en
-  instagram_url: 
+  instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
