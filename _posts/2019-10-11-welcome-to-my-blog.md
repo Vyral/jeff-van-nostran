@@ -2,8 +2,7 @@
 youtube_code:
 excerpt: >-
   My monthly messages will provide you with information on mortgage programs,
-  interest rates, and other educational information having to do with our
-  market.
+  interest rates, and other educational information about our market.
 enclosure: >-
   Our market remains busy, and I want to keep you updated on what’s happening in
   the lending world.     I know how to guide you through a changing marketplace
