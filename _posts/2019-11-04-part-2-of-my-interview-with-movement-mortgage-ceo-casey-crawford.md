@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/movement-mortgage-interview-part-2-youtube.jpg
 youtube_code: sE8Ck1LBQX8
 ---
 
