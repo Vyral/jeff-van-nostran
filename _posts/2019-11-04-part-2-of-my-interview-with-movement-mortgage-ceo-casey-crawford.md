@@ -21,9 +21,9 @@ youtube_code: sE8Ck1LBQX8
 
 {% include youtube.html %}
 
-We’re back today for part two of our interview with Movement Mortgage CEO Casey Crawford. He was kind enough to join us and answer some more questions.
+We’re back today for part two of our interview with Movement Mortgage CEO Casey Crawford, who was kind enough to answer yet another great question:
 
-***If I’m a real estate agent, why do I want to partner with a loan officer at Movement Mortgage?***
+***"If I’m a real estate agent, why do I want to partner with a loan officer at Movement Mortgage?"***
 
 {% include pullquote.html %}
 
