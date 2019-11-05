@@ -31,6 +31,6 @@ If you’re a real estate agent who works with Movement Mortgage, you are among 
 
 He then moved into the financial services side of real estate to architect a business that was built around the Realtor experience. Many people are starting to say that Realtors are no longer necessary, but at Movement Mortgage, they believe that Realtors provide a necessary and valuable service to consumers and they want to service Realtors to help them build their businesses.&nbsp;
 
-If you have any questions for Casey, don’t hesitate to reach out via his company’s [website](https://movement.com/){: target="_blank"}, give him a call at (PHONE NUMBER), or send him an email to (EMAIL ADDRESS). **Stay tuned for part three of our conversation coming up in the next few weeks.**
+If you have any questions for Casey, don’t hesitate to reach out via his company’s [website](https://movement.com/){: target="_blank"}.&nbsp;**Stay tuned for part three of our conversation coming up in the next few weeks.**
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
