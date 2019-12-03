@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Now is the Time to Refinance
-date: 2019-12-03 22:44:08
+date: 2019-12-03 22:44:00
 tags:
   - Mortgage
 excerpt: Why is now an ideal time to refinance? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/Now+is+the+Time+to+Refinance.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
