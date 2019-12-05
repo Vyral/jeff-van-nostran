@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now is the Time to Refinance
+title: Now Is the Time to Refinance
 date: 2019-12-03 22:44:00
 tags:
   - Mortgage
@@ -21,4 +21,4 @@ Mortgage rates are the lowest they’ve been since 2016. **Now is the ideal time
 
 We may be able to save money by lowering your interest rate or getting rid of mortgage insurance. Maybe you want to pull cash out to do some home improvements or some high interest rate debt consolidation. Whatever your goals are, now is the time to do a review of your mortgage terms.&nbsp;
 
-Rates aren’t going to stay this low forever so reach out to me by phone or email for assistance or with any questions. I would be glad to help you. To see my full message, watch this short video.
+Rates aren’t going to stay this low forever so reach out to me by phone or email for assistance or with any questions. I would be glad to help you.
