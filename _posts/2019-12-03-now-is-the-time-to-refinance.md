@@ -17,7 +17,7 @@ youtube_code: G0qvWBAjVUo
 
 {% include youtube.html %}
 
-Mortgage rates are the lowest they’ve been since 2016. **Now is the ideal time to do a mortgage review.** It’s an excellent time to take advantage of the low rates and refinance. Grab your most recent mortgage statement, I can take a look at it and compare your current loan terms to what’s available in the market.&nbsp;
+Mortgage rates are the lowest they’ve been since 2016. **Now is the ideal time to do a mortgage review.** It’s an excellent time to take advantage of the low rates and refinance. Grab your most recent mortgage statement, and I can take a look at it and compare your current loan terms to what’s available in the market.&nbsp;
 
 We may be able to save money by lowering your interest rate or getting rid of mortgage insurance. Maybe you want to pull cash out to do some home improvements or some high interest rate debt consolidation. Whatever your goals are, now is the time to do a review of your mortgage terms.&nbsp;
 
