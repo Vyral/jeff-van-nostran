@@ -8,7 +8,7 @@ excerpt: >-
   Don’t start off a conversation with your lender with “What’s your rate?”
   Here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/What+Goes+Into+Your+Interest+Rate_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/%22What's+your+rate%3F%22.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
