@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Goes Into Your Interest Rate?
+title: '"What''s your rate?"'
 date: 2019-12-16 22:24:00
 tags:
   - Loan Application
