@@ -13,8 +13,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/buyers-biggest-mistakes-youtube.jpg
-youtube_code: sLeXm1QIR8w
+youtube_alternate_image: /uploads/buyers-biggest-mistakes-youtube-02.jpg
+youtube_code: 98ACZS6bpv4
 ---
 
 {% include youtube.html %}
