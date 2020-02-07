@@ -23,7 +23,7 @@ youtube_code: dKdCdiWNVVQ
 
 Once upon a time, there was a dream home in a very competitive market. Sound familiar? Buyers from far and wide rushed to get pre-approved letters, then submitted their offers.&nbsp;
 
-But one Realtor had a secret weapon; she referred her client to the best loan officer she knew—Jeff Van Nostran\! Together, they created the right loan terms and submitted an offer that couldn’t be ignored.&nbsp;
+One Realtor had a secret weapon; she referred her client to the best loan officer she knew—Jeff Van Nostran\! Together, they created the right loan terms and submitted an offer that couldn’t be ignored.&nbsp;
 
 {% include pullquote.html %}
 
