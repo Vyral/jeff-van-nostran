@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save Thousands on Your Dream Home
+title: Working with the Right Loan Officer Gives You an Edge
 date: 2020-02-06 19:54:00
 tags:
   - Home Loans
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/save-thousands-youtube.jpg
+youtube_alternate_image: /uploads/save-thousands-youtube-1.jpg
 youtube_code: h4oqXZe_wwA
 ---
 
