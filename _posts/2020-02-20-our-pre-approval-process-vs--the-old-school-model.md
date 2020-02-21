@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Pre-Approval Process vs. the Old-School Model
-date: 2020-02-20 22:54:06
+date: 2020-02-20 22:54:00
 tags:
   - Home Loans
   - Loan Application
@@ -22,7 +22,7 @@ youtube_code: 8DRiH_xmkR4
 
 Here’s what happens in the old pre-approval process model: You go to your lender, the loan officer looks at some version of the package, maybe pulls your credit, and issues a pre-approval letter. What’s happening is **the loan officer is giving you a pre-approval based on their best guess.** The truth is, they’re not an underwriter, so at least 10% to 20% of the time there’s an honest mistake made that doesn’t get identified until much later in the process.&nbsp;
 
-Now, the poor Realtor is out for three weeks, three months, a year, or however long it takes to find a home for the client based on the loan officer’s guess. Finally, once they get into escrow, the lender actually starts to do their job. They order the 4506-T to make sure the IRS transcripts come in, to ensure the tax returns are legitimate. They finally verify the down payment, dig into the bank statements, and check that the wife’s not on maternity leave or someone’s not on disability.&nbsp;
+Now, the poor Realtor is out for three weeks, three months, a year, or however long it takes to find a home for the client based on the loan officer’s guess. Finally, once they get into escrow, the lender actually starts to do their job. They order the 4506-T to make sure the IRS transcripts come in and that the tax returns are legitimate. They finally verify the down payment, dig into the bank statements, and check that the wife’s not on maternity leave or someone’s not on disability.&nbsp;
 
 The lender in the old-school model does all the stuff that burns time. Now, 10 to 20 days later, the underwriter, the person who actually has the authority to approve the loan, finally looks at it. They find the mistakes based on the loan officer’s best guess. Now you have 10 days to two months where everything has to be redone because the loan officer made an honest mistake.&nbsp;
 
