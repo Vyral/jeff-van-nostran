@@ -32,7 +32,7 @@ In the end, the client is frustrated and leaves with a bad taste in their mouth 
 
 **Fast forward to Movement Mortgage,** founded in 2008. We completely re-engineered the process and wanted to do things differently. We still do our pre-approval; we want to be engaged with the client and tell the Realtor, for example, that you’re approved up to $500,000 with 10% down. However, why stop there?&nbsp;
 
-In our system, we want to send the file directly to the underwriters today. That means we’ll get the underwriting back usually within six hours or less, sometimes before the Realtor even meets with the client to start talking about neighborhoods or looking at houses. In that short amount of time, you’ll have a fully underwritten loan. Our processors have what’s called a severy-day process, and receive bonuses for how quickly they can process a file. They are highly motivated to get the job done.&nbsp;
+In our system, we want to send the file directly to the underwriters today. That means we’ll get the underwriting back usually within six hours or less, sometimes before the Realtor even meets with the client to start talking about neighborhoods or looking at houses. In that short amount of time, you’ll have a fully underwritten loan. Our processors have what’s called a seven-day process, and receive bonuses for how quickly they can process a file. They are highly motivated to get the job done.&nbsp;
 
 This is a better system, and a better way to service our clients. **To see a visual representation of everything discussed here, watch the video above.&nbsp;**
 
