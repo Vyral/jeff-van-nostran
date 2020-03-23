@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 1st Step in Building the Ultimate Buyers Team
-date: 2020-03-19 18:53:40
+date: 2020-03-19 18:53:00
 tags:
   - Home Loans
 excerpt: >-
@@ -21,13 +21,13 @@ youtube_code: mFA0b3IXdkE
 
 We all know real estate is about competition. Sometimes you compete against a buyer for a highly sought-after home. Sometimes you compete against a seller for better terms. Sometimes you compete against yourself to better your negotiation skills.&nbsp;
 
-Because this is a competition, we always represent buyers who’re pursuing highly desirable homes in sought-after neighborhoods, and we’ll probably encounter multiple-offer situations. As a team, we need to differentiate ourselves from who we compete against so our clients can win those homes.&nbsp;
+Because this is a competition, we always represent buyers who are pursuing highly desirable homes in sought-after neighborhoods, and we’ll probably encounter multiple-offer situations. As a team, we need to differentiate ourselves from who we compete against so our clients can win those homes.&nbsp;
 
 Being in real estate is kind of like being a contractor, and a contractor can’t build a house with a hammer—they need a full tool belt. You as an agent need a full tool belt too, but your tools are human beings. Your tools are other service providers in real estate-related fields: lenders, inspectors, stagers, etc.&nbsp;
 
 {% include pullquote.html %}
 
-The first step in building your agent toolbox is **identifying the types of property you’ll specialize in.** Do you represent land and development? Or high-rise condos in a downtown area? Or how about single-family homes in a suburban neighborhood? This step is necessary because you need to know how big your toolbox needs to be. Then, once you move on to the next step—identifying real estate-related professionals you need, you’ll know exactly who to seek out. These are the people you’ll need in your tool belt to best serve your clients, and ultimately win their home.&nbsp;
+The first step in building your agent toolbox is **identifying the types of property you’ll specialize in.** Do you represent land and development or high-rise condos in a downtown area? How about single-family homes in a suburban neighborhood? This step is necessary because you need to know how big your toolbox should be. Then, once you move on to the next step—identifying real estate-related professionals you need, you’ll know exactly who to seek out. These are the people you’ll need in your tool belt to best serve your clients, and ultimately win their home.&nbsp;
 
 After you identify who you need in your tool belt, **step three is getting the best of the best.** Don’t settle for anything less. We know this is a reputation-based business. It’s all about who we surround ourselves with. Their reputation becomes our reputation. That’s how we create raving fans out of our clients and win against other buyers.&nbsp;
 
