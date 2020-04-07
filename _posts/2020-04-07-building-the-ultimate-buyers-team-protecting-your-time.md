@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'Building the Ultimate Buyer’s Team: Protecting Your Time'
-date: 2020-04-07 17:03:32
+date: 2020-04-07 17:03:00
 tags:
   - Loan Application
   - Home Loans
 excerpt: >-
-  In part two of our series,  “Building the Ultimate Buyer’s Team,” we’ll
-  discuss a few tips on how to protect your time and maintain your clients’
-  enthusiasm.
+  In part two of our series, “Building the Ultimate Buyer’s Team,” we’ll discuss
+  a few tips on how to protect your time and maintain your clients’ enthusiasm.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/Building+the+Ultimate+Buyers+Team-+Protecting+Your+Time.mp4
 pullquote: Speed is important to keep the wind in buyers’ sails.
