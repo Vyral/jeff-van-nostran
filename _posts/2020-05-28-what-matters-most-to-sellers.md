@@ -1,17 +1,17 @@
 ---
 layout: post
 title: What Matters Most to Sellers
-date: 2020-05-28 15:29:59
+date: 2020-05-28 15:29:00
 tags:
   - Home Loans
 excerpt: >-
   In our hyper-competitive market, buyers need to align themselves with the
   right lender and agent.
 enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/What+Matters+Most+to+Sellers.mp4
+pullquote: >-
   If you plan on winning, you need to align yourself with a Realtor and loan
   officer who have a reputation for competing and winning.
-pullquote: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/What+Matters+Most+to+Sellers.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
