@@ -21,20 +21,18 @@ youtube_code: wXPf3NUsnV8
 
 {% include youtube.html %}
 
-A lot of homebuyers think that qualifications like credit profile, income, and down payment percentage make all of the difference to sellers and help them stand out from the competition.&nbsp;
+As a buyer in our market, my message for you today is simple: Features tell, but benefits sell.&nbsp;
 
-As an industry professional who’s been doing mortgage lending for over a decade, I’m here to tell you that those things don’t matter. Sellers don’t care about them. What they do care about is getting top dollar for their property. They want the highest bidder.&nbsp;
+That is to say, the features of a credit profile, down payment, income, etc., are the same benefits that come with having an experienced mortgage professional on your side. All sellers want to get top dollar for their property, but **they also want a fully qualified buyer who’s aligned themselves with the right lender—and agent.** These professionals will take them from the starting line to the finish line.&nbsp;
 
-The second most important thing to sellers, though, is **a buyer who’s aligned themselves with the right lender and agent.** These professionals will take them from the starting line to the finish line.&nbsp;
+When a seller sits down and considers all the offers on their home, the listing agent they hired as their advisor will help them choose one winner. If you plan on being that winner, you need to align yourself with an agent and loan officer who have a reputation for competing and winning.&nbsp;
 
 {% include pullquote.html %}
 
-When a seller sits down and spreads their offers out over the table, the listing agent they hired as their advisor will help them choose one winner and a lot of losers. If you plan on winning, you need to align yourself with a Realtor and loan officer who have a reputation for competing and winning.&nbsp;
+Specifically, **your lender should be able to take you from the starting line to the finish line as quickly as possible,** with no surprises or hiccups and clear communication. A full underwriting approval will differentiate you from other buyers. A lot of buyers are throwing around pre-approval letters, but those letters are issued based on loan officer expertise.&nbsp;
 
-Not just that, but **you also need a lender who can take you from start to finish as quickly as possible,** with no surprises or hiccups and clear communication. A full underwriting approval will also differentiate you from other buyers. A lot of buyers are throwing around pre-approval letters, but those letters are issued based on loan officer expertise.&nbsp;
+There’s no housing inventory, so why not take your time, get your ducks in a row, and have your lender take you through the full underwriting process and help you stand out from the competition?
 
-We have low housing inventory, so why not take your time, get your ducks in a row, and have your lender take you through the full underwriting department process and help you stand out from the competition?
-
-**If you work with me, we will compete and win.&nbsp;**
+If you work with me, I can take you through this process and ensure that you get the home you want.&nbsp;
 
 If you have any questions about this topic or would like to take the first step in your home buying journey, don’t hesitate to reach out to me. I’d love to help you.
