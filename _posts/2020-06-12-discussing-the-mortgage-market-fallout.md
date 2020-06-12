@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Discussing the Mortgage Market Fallout
-date: 2020-06-12 19:21:59
+date: 2020-06-12 19:21:00
 tags:
   - Home Loans
   - Mortgage
 excerpt: >-
   Here’s what you need to know about the mortgage market fallout since the
   COVID-19 pandemic hit.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Van+Nostran/Discussing+the+Mortgage+Market+Fallout.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
